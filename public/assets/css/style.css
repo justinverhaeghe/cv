@@ -1,0 +1,34 @@
+body{
+    background-color: #0D0630;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar img{
+    width: 20vw;
+}
+h1{
+    color: #FFC700;
+}
+.tittlesection{
+    color: #FFC700;
+}
+hr{
+    border: 3px solid #E5F0EE;
+    width: 30%;
+    margin: auto;
+    opacity: 100%;
+}
+#main{
+    height: 100vh;
+    width: 100vw;
+}
+#aboutme img{
+    max-height: 50vh;
+    border-radius: 5px;
+    margin: 5%;
+}
+ul {
+    list-style-type: none;
+}
+span{
+    color: #FFC700;
+}
