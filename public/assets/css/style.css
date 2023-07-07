@@ -1,27 +1,27 @@
-body{
-    background-color: #0D0630;
-    font-family: 'Roboto', sans-serif;
+body {
+    background-color: #0d0630;
+    font-family: "Roboto", sans-serif;
 }
-.navbar img{
-    width: 20vw;
+.navbar img {
+    width: 15vw;
 }
-h1{
-    color: #FFC700;
+h1 {
+    color: #ffc700;
 }
-.tittlesection{
-    color: #FFC700;
+.tittlesection {
+    color: #ffc700;
 }
-hr{
-    border: 3px solid #E5F0EE;
+hr {
+    border: 3px solid #e5f0ee;
     width: 30%;
     margin: auto;
     opacity: 100%;
 }
-#main{
+#main {
     height: 100vh;
     width: 100vw;
 }
-#aboutme img{
+#aboutme img {
     max-height: 50vh;
     border-radius: 5px;
     margin: 5%;
@@ -29,6 +29,6 @@ hr{
 ul {
     list-style-type: none;
 }
-span{
-    color: #FFC700;
+span {
+    color: #ffc700;
 }
